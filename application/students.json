@@ -1,14 +1,10 @@
 [
-    {
-        "name": "Іван",
-        "surname": "Іваненко",
-        "age": 20,
-        "course": "2",
-        "faculty": "Факультет комп'ютерних наук",
-        "subjects": [
-            "Математика",
-            "Програмування",
-            "Англійська мова"
-        ]
-    }
+  {
+    "name": "Yurij",
+    "surname": "Stepanenko",
+    "age": "15",
+    "course": "FrontEnd",
+    "faculty": "ICT",
+    "subjects": "HTML, CSS, JavaScript"
+  }
 ]
